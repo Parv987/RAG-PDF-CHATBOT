@@ -1,0 +1,10 @@
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+cohere
+PyPDF2
+pypdf
+numpy
+pandas
+python-dotenv
